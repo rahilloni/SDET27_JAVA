@@ -1,0 +1,16 @@
+package CssCorp;
+
+public class VowelsOfSIngleString {
+	
+	public static void main(String[] args) {
+		
+		String s="Raheel";
+		for(int i=0;i<s.length();i++) {
+			if(s.charAt(i)=='a'||s.charAt(i)=='e'||charAt(i)=='i||s.charAt(i)=='o||s.charAt(i)=='u)
+			{
+				
+			}
+		}
+	}
+
+}
